@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sound Intensity 3d.CSharp.Plugins", "Sound Intensity 3d.CSharp.Plugins.csproj", "{A6C5B688-39FC-A4B4-D49C-50B0BA7C3629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sound Intensity 3d.CSharp", "Sound Intensity 3d.CSharp.csproj", "{EF16B06B-AE45-E42E-1988-FBC05A4A1778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sound Intensity 3d.CSharp.Editor", "Sound Intensity 3d.CSharp.Editor.csproj", "{C87FFD59-8056-3AD6-BDDD-6C894E68B681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C5B688-39FC-A4B4-D49C-50B0BA7C3629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C5B688-39FC-A4B4-D49C-50B0BA7C3629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C5B688-39FC-A4B4-D49C-50B0BA7C3629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C5B688-39FC-A4B4-D49C-50B0BA7C3629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF16B06B-AE45-E42E-1988-FBC05A4A1778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF16B06B-AE45-E42E-1988-FBC05A4A1778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF16B06B-AE45-E42E-1988-FBC05A4A1778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF16B06B-AE45-E42E-1988-FBC05A4A1778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C87FFD59-8056-3AD6-BDDD-6C894E68B681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87FFD59-8056-3AD6-BDDD-6C894E68B681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87FFD59-8056-3AD6-BDDD-6C894E68B681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87FFD59-8056-3AD6-BDDD-6C894E68B681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
